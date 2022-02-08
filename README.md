@@ -20,6 +20,7 @@ Il est constitué d’un menu principal comportant plusieurs options :
 3. Forme de la séquence
 4. Exécution
 0. Quit
+
 Ces différentes options s’affichent au lancement du programme et l’utilisateur pourra commencer par l’option de son choix. Nous vous conseillons par ailleurs de commencer par l’une des deux premières options pour que le programme initialise votre choix.
 Guide de l’utilisateur
 Pour utiliser le programme, l’utilisateur devra entrer le chiffre correspondant à l’option de son choix :
