@@ -13,7 +13,9 @@ Lise MBANI
 Divine Madikita
 
 Mode d’emploi programme Enzyme de restriction
+
 Ce programme permet à l’utilisateur de faire une digestion enzymatique (de couper) d’une séquence d’ADN par une ou plusieurs enzymes de restriction.
+
 Il est constitué d’un menu principal comportant plusieurs options :
 1. Choix de l’enzyme de restriction
 2. Séquence d’ADN (Fasta)
