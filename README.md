@@ -19,6 +19,7 @@ Il est constitué d’un menu principal comportant plusieurs options :
 2. Séquence d’ADN (Fasta)
 3. Forme de la séquence
 4. Exécution
+
 0. Quit
 
 Ces différentes options s’affichent au lancement du programme et l’utilisateur pourra commencer par l’option de son choix. Nous vous conseillons par ailleurs de commencer par l’une des deux premières options pour que le programme initialise votre choix.
@@ -35,6 +36,7 @@ L’utilisateur peut choisir jusqu’à 3 enzymes de restriction de son choix, p
 3. Forme de la séquence : Option permettant d’entrer la forme de la séquence : linéaire ou circulaire tout en respectant la règle de l’écriture précisée dans le programme.
 4. Exécution : Option permettant à l’utilisateur d’exécuter enfin le programme après avoir entré les enzymes de son choix, la séquence à couper et la forme de la séquence. Cette option vérifiera la bonne entrée de toute les options avant exécution. En cas de mauvaise entrée, le programme le précisera à l’utilisateur à chaque étape.
 0. Quit : Entraîne la perte des données entrées.
+
 Plus l’utilisateur avance dans le choix de ces options, s’affichera une autre option :
 « 9. Back(menu) » : permettant de revenir au menu principal.
 Il est également possible de modifier la séquence ainsi que sa forme lorsqu’elles ont été entrées et validées en revenant sur les options « séquence d’ADN » et « Forme de la séquence ». Cette fonction n’est valable que pour ces deux options.
